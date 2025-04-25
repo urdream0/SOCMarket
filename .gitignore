@@ -1,0 +1,14 @@
+# --- BACKEND (Spring Boot) ---
+backend/build/
+backend/.gradle/
+*.log
+
+# --- FRONTEND (Next.js) ---
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# --- GLOBAL ---
+*.DS_Store
+*.iml
+.env
