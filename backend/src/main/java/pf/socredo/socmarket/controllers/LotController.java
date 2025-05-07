@@ -54,3 +54,4 @@ public class LotController {
         return ResponseEntity.ok(lots);
     }
 }
+//...
